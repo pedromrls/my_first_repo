@@ -1,5 +1,0 @@
-This is a testing document for the github practice
-
-There're many things I want to try with this but let's try committing this document.
-
-This one is going to make some changes in the text
